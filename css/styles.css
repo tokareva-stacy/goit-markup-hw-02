@@ -28,11 +28,7 @@ button:hover, button:focus {
     letter-spacing: 0.03em;
     color: #4d5ae5;
     text-transform: uppercase;
-    display: flex;
-    align-items: center;
     justify-content: flex-start;
-    flex-direction: row;
-    gap: 0px;
 }
 
 .header-logo-studio { 
