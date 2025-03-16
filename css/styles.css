@@ -123,7 +123,9 @@ button:hover, button:focus {
     background-color: #FFFFFF;
 }
 
-.team-item {}
+.team-item {
+    background-color:#fff;
+}
 
 .team-image {}
 
